@@ -1,5 +1,5 @@
 /* 
-DAR - Deno Auto Reloader
+DARF - Deno Auto Reload & Format -er
 Andrew C. Thompson
 https://github.com/andrew1623
 */
